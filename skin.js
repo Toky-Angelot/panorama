@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 6.1.14/18105
 // Filename: LogoWatersky.ggsk
-// Generated 2024-09-19T15:18:17
+// Generated 2024-09-19T17:03:40
 
 function pano2vrSkin(player,base) {
 	player.addVariable('opt_hotspot_preview', 2, true);
